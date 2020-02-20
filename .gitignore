@@ -16,3 +16,7 @@ src/Entity/
 src/Repository/
 
 src/Security/
+
+config/packages/
+
+.idea/
